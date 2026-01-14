@@ -391,25 +391,19 @@ ernstlich Aufwand sparen kann. Oft ist das im Bereich Shellprogrammierung.
 
 Ideen-Bröckchen:
 
-- Fish1: die netten interaktiven Eigenschaften ausprobieren. Reflektion darüber.
+- Fish1: die netten interaktiven Eigenschaften ausprobieren. Reflexion darüber.
 - Fish2: (`fish` hat eine sehr viel weniger verrückte Scripting-Sprache als `bash`,
   was sie für Shell-Programmierung attraktiv macht, wenn die geringere Verbreitung/Verfügbarkeit
   kein Problem darstellt.)
   Ein Skript, das man oben für bash geschrieben (oder gelesen?) hat,
-  nach `fish` umschreiben. Reflektion darüber.
-- Zsh: Die Anpassbarkeit bestaunen. Evtl. [Oh my zsh](https://ohmyz.sh/) durchstöbern.
-  Reflektion darüber.
-- Powershell: 1-4 Aufgaben zu den ganz anderen Konzepten dieser Shell. (Ggf. eigene Gruppe.
-  Geht nicht auf MacOS(?))  
+  nach `fish` umschreiben. Reflexion darüber.
   
 
 ### Sprachen/powershell (N.N.)
 
-Geht nicht auf MacOS(?)
-
 Ideen-Bröckchen:
 
-1-4 Aufgaben zu den ganz anderen Konzepten dieser Shell.
+- 2-4 Aufgaben zu den ganz anderen Konzepten dieser Shell.
 
   
 ### Sprachen/zsh (N.N.)
